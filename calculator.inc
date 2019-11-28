@@ -35,6 +35,9 @@
 #include <a_samp>
 
 
+#if defined _INC_CALCULATOR
+  #endinput
+#endif
 #define _INC_CALCULATOR
 
 #include <a_samp>
